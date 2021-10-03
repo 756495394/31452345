@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>全局 HTTP 代理</string>
+			<key>PayloadDisplayName</key>
+			<string>全局 HTTP 代理</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.CF64EF52-F73C-441D-B5EC-70F6EB07B957</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>CF64EF52-F73C-441D-B5EC-70F6EB07B957</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<false/>
+			<key>ProxyServer</key>
+			<string>192.1668.31.210</string>
+			<key>ProxyServerPort</key>
+			<integer>61009</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures TV Remote settings</string>
+			<key>PayloadDisplayName</key>
+			<string>TV Remote settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.tvremote.5722949A-6604-44C8-9E40-F2FFAB409C2C</string>
+			<key>PayloadType</key>
+			<string>com.apple.tvremote</string>
+			<key>PayloadUUID</key>
+			<string>5722949A-6604-44C8-9E40-F2FFAB409C2C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>未命名</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBook-Pro.A87DF8CF-E0A1-4601-A132-EF7F76558D3A</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>78C279E9-8A70-4111-B816-99ABC4D19B34</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
